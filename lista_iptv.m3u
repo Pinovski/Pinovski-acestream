@@ -22,44 +22,39 @@
 #EXTGRP: group-title="TDT" group-logo="https://i.ibb.co/j9xn42jB/logo-tdt.png"
 #EXTGRP: group-title="TENNIS" group-logo="https://i.ibb.co/ynMKPMw2/logo-tennis.png"
 #EXTGRP: group-title="UFC" group-logo="https://pngimg.com/uploads/ufc/ufc_PNG64.png"
-#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" tvg-id="DAZN Mundial" group-title="MUNDIAL",Dazn Mundial 1 (Fuente A)
+
+#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" tvg-id="DAZN Mundial" group-title="MUNDIAL - DAZN (ES)",Dazn Mundial 1 (Fuente A)
 http://127.0.0.1:6878/ace/getstream?id=414222dc7b69a626f29eb964450dae44b3bc9b36
-#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" tvg-id="DAZN Mundial" group-title="MUNDIAL",Dazn Mundial 1 (Fuente B)
+#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" tvg-id="DAZN Mundial" group-title="MUNDIAL - DAZN (ES)",Dazn Mundial 1 (Fuente B)
 http://127.0.0.1:6878/ace/getstream?id=ccfde4bc75d14c79dd09af72434568a0e732d507
-#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" tvg-id="DAZN Mundial 2" group-title="MUNDIAL",Dazn Mundial 2 (Fuente A)
+#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" tvg-id="DAZN Mundial 2" group-title="MUNDIAL - DAZN (ES)",Dazn Mundial 2 (Fuente A)
 http://127.0.0.1:6878/ace/getstream?id=63b1933154919d116f08e33ffcb31a23f9483989
-#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" tvg-id="DAZN Mundial 2" group-title="MUNDIAL",Dazn Mundial 2 (Fuente B)
+#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" tvg-id="DAZN Mundial 2" group-title="MUNDIAL - DAZN (ES)",Dazn Mundial 2 (Fuente B)
 http://127.0.0.1:6878/ace/getstream?id=dac18df259f44258d81aa8f31cb343bb837f5ac7
-#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" tvg-id="DAZN Mundial 3" group-title="MUNDIAL",Dazn Mundial 3 (Fuente A)
+#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" tvg-id="DAZN Mundial 3" group-title="MUNDIAL - DAZN (ES)",Dazn Mundial 3 (Fuente A)
 http://127.0.0.1:6878/ace/getstream?id=7cf306fc097deca7005b220b1f6206bd654b5ca5
-#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" tvg-id="DAZN Mundial 3" group-title="MUNDIAL",Dazn Mundial 3 (Fuente B)
+#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" tvg-id="DAZN Mundial 3" group-title="MUNDIAL - DAZN (ES)",Dazn Mundial 3 (Fuente B)
 http://127.0.0.1:6878/ace/getstream?id=f28f558a7699237cb4ec1e0075db4073ffc3a415
-#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" tvg-id="DAZN Mundial 4" group-title="MUNDIAL",Dazn Mundial 4 (Fuente A)
+#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" tvg-id="DAZN Mundial 4" group-title="MUNDIAL - DAZN (ES)",Dazn Mundial 4 (Fuente A)
 http://127.0.0.1:6878/ace/getstream?id=aab0be9632ef2f53e99f2e596a8e6a30ed34a29c
-#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" tvg-id="DAZN Mundial 4" group-title="MUNDIAL",Dazn Mundial 4 (Fuente B)
+#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" tvg-id="DAZN Mundial 4" group-title="MUNDIAL - DAZN (ES)",Dazn Mundial 4 (Fuente B)
 http://127.0.0.1:6878/ace/getstream?id=584e20154750a15d14cb59953bb9cdd923c331bb
-#EXTINF:-1 tvg-logo="https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/World-Cup-Trophy---Football-Award-Winner-Event-General-Secondary.png" tvg-id="" group-title="MUNDIAL",FIFA World Cup 1 *
-http://127.0.0.1:6878/ace/getstream?id=e8670925c3bfd0ceafa54192772a6b8a482bd94b
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="MUNDIAL",FUSSBALL TV 4k 4K *
-http://127.0.0.1:6878/ace/getstream?id=3b73feccf6e835b6c4a5a10c3f0425643091cfca
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%201.png" tvg-id="FR · beIN SPORTS 1" group-title="MUNDIAL",FR · beIN SPORTS 1
-http://127.0.0.1:6878/ace/getstream?id=58e454d067b9e25e40f3c62b3430b55ef6fead09
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" tvg-id="FR · beIN SPORTS 2" group-title="MUNDIAL",FR · beIN SPORTS 2
-http://127.0.0.1:6878/ace/getstream?id=fa0a5dd9ecc3febbda8b6e1805c539a93fe515ac
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%203.png" tvg-id="FR · beIN SPORTS 3" group-title="MUNDIAL",FR · beIN SPORTS 3
-http://127.0.0.1:6878/ace/getstream?id=519c2159e9228bfe2f94911dfa111b01d0a896e2
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="FOX SPORTS 1" group-title="MUNDIAL",FOX Sports 1 HD (US)
-http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="FOX SPORTS 2" group-title="MUNDIAL",FOX Sports 2 HD (US)
+#EXTINF:-1 tvg-logo="" tvg-id="Direct Sports" group-title="MUNDIAL - ARGENTINA (AR)",Direct Sports 1080 (AR)
+http://127.0.0.1:6878/ace/getstream?id=79e6e01eb3db42e3da2428895181c0d32e4abd1f
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="" group-title="MUNDIAL - INGLÉS (US)",FOX Sports 2 HD (US)
 http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61pAdLCxz7L.png" tvg-id="Magenta Sport 1" group-title="MUNDIAL",Magenta Sport 1 HD (DE)
-http://127.0.0.1:6878/ace/getstream?id=501141c649a2b78c4965cbf3257224181cc55072
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61pAdLCxz7L.png" tvg-id="Magenta Sport 2" group-title="MUNDIAL",Magenta Sport 2 HD (DE)
-http://127.0.0.1:6878/ace/getstream?id=ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Match_TV_logo.png/640px-Match_TV_logo.png" tvg-id="Match TV" group-title="MUNDIAL",Матч! ТВ HD (RU)
-http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Match_TV_logo.png/640px-Match_TV_logo.png" tvg-id="Match Futbol 1" group-title="MUNDIAL",Матч! Футбол 1 (RU)
+#EXTINF:-1 tvg-logo="https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/World-Cup-Trophy---Football-Award-Winner-Event-General-Secondary.png" tvg-id="" group-title="MUNDIAL - INGLÉS (US)",FOX Sports / FIFA World Cup 1 (US)
+http://127.0.0.1:6878/ace/getstream?id=e8670925c3bfd0ceafa54192772a6b8a482bd94b
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="MUNDIAL - ALEMÁN (DE)",Fussball TV 4K (Magenta TV)
+http://127.0.0.1:6878/ace/getstream?id=3b73feccf6e835b6c4a5a10c3f0425643091cfca
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Match_TV_logo.png/640px-Match_TV_logo.png" tvg-id="Match TV" group-title="MUNDIAL - RUSO (RU)",Матч! ТВ HD (RU)
+http://127.0.0.1:6878/ace/getstream?id=f69b2859510dce33b992dd1940f95254c6e6f51c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Match_TV_logo.png/640px-Match_TV_logo.png" tvg-id="Match Premier" group-title="MUNDIAL - RUSO (RU)",Матч! Премьер (RU) [Análisis]
+http://127.0.0.1:6878/ace/getstream?id=88c482d9e57b1a031c032344f9c00cf7b36da8d9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Match_TV_logo.png/640px-Match_TV_logo.png" tvg-id="Match Futbol 1" group-title="MUNDIAL - RUSO (RU)",Матч! Футбол 1 (RU)
 http://127.0.0.1:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Match_TV_logo.png/640px-Match_TV_logo.png" tvg-id="Match Futbol 1" group-title="MUNDIAL - RUSO (RU)",Матч! Футбол 1 [Backup] (RU)
+http://127.0.0.1:6878/ace/getstream?id=0bb7252a2a8dd3704b3a6c0538478450b8987012
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="Canal 1 (1RFEF)" group-title="1RFEF", Canal 1 (1RFEF) (SOLO EVENTOS) 437d --> NEW ERA V
 http://127.0.0.1:6878/ace/getstream?id=c1ee6e1e0ef5928d8261f855c417de21794f437d
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="Canal 2 (1RFEF)" group-title="1RFEF", Canal 2 (1RFEF) (SOLO EVENTOS) 74cf --> NEW ERA V
