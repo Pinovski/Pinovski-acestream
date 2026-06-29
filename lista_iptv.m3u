@@ -52,12 +52,6 @@ http://127.0.0.1:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
 http://127.0.0.1:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="MUNDIAL - POLACO (PL)", TV Sport (PL)
 http://127.0.0.1:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
-#EXTINF:-1 tvg-logo="" tvg-id="Direct Sports" group-title="MUNDIAL - ARGENTINA (AR)",Direct Sports 1080 (AR)
-http://127.0.0.1:6878/ace/getstream?id=79e6e01eb3db42e3da2428895181c0d32e4abd1f
-#EXTINF:-1 tvg-id="Direct Sport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUhtTJwPO1nOCf0MJKvr095maF6gtQ0EE4Vg&s" group-title="MUNDIAL - ARGENTINA (AR)",Direct Sport 1 1080p
-http://127.0.0.1:6878/ace/getstream?id=1b25b195b1b84d4b96830410657718e9e275ad49
-#EXTINF:-1 tvg-id="CANAL 5 MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="MUNDIAL - MÉXICO (MX)",CANAL 5 MX 1080p
-http://127.0.0.1:6878/ace/getstream?id=2f632f8996f1dc4ac00fe4e08e4f9ac90ea80fc9
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="" group-title="MUNDIAL - INGLÉS (US)",FOX Sports 2 HD (US)
 http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
 #EXTINF:-1 tvg-logo="https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/World-Cup-Trophy---Football-Award-Winner-Event-General-Secondary.png" tvg-id="" group-title="MUNDIAL - INGLÉS (US)",FOX Sports / FIFA World Cup 1 (US)
@@ -66,6 +60,12 @@ http://127.0.0.1:6878/ace/getstream?id=e8670925c3bfd0ceafa54192772a6b8a482bd94b
 http://127.0.0.1:6878/ace/getstream?id=d07816dade862339446b6c2a16d131617a3a9389
 #EXTINF:-1 tvg-id="TNT Sport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKZAaMiIp9wasC3RWVO_0WP41yjDTNMo1bKA&s" group-title="MUNDIAL - INGLÉS (US)",TNT Sport 1
 http://127.0.0.1:6878/ace/getstream?id=7030f82a081ed0a32f75a2d16ba0c995cbf4e686
+#EXTINF:-1 tvg-logo="" tvg-id="Direct Sports" group-title="MUNDIAL - ARGENTINA (AR)",Direct Sports 1080 (AR)
+http://127.0.0.1:6878/ace/getstream?id=79e6e01eb3db42e3da2428895181c0d32e4abd1f
+#EXTINF:-1 tvg-id="Direct Sport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUhtTJwPO1nOCf0MJKvr095maF6gtQ0EE4Vg&s" group-title="MUNDIAL - ARGENTINA (AR)",Direct Sport 1 1080p
+http://127.0.0.1:6878/ace/getstream?id=1b25b195b1b84d4b96830410657718e9e275ad49
+#EXTINF:-1 tvg-id="CANAL 5 MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="MUNDIAL - MÉXICO (MX)",CANAL 5 MX 1080p
+http://127.0.0.1:6878/ace/getstream?id=2f632f8996f1dc4ac00fe4e08e4f9ac90ea80fc9
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="MUNDIAL - ALEMÁN (DE)",Fussball TV 4K (Magenta TV)
 http://127.0.0.1:6878/ace/getstream?id=3b73feccf6e835b6c4a5a10c3f0425643091cfca
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="Canal 1 (1RFEF)" group-title="1RFEF", Canal 1 (1RFEF) (SOLO EVENTOS) 437d --> NEW ERA V
