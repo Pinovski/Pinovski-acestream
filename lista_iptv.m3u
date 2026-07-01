@@ -1,35 +1,35 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
 #EXTVLCOPT:network-caching=1000
-#EXTGRP: group-title="🏆 MUNDIAL 🏆" group-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg"
+#EXTGRP: group-title="🇪🇸 MUNDIAL - DAZN (ES)" group-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg"
 #EXTGRP: group-title="🇵🇱 MUNDIAL - POLACO (PL)" group-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Canal%2B_Sport_2_PL.png"
 #EXTGRP: group-title="🇷🇺 MUNDIAL - RUSO (RU)" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Match_TV_logo.png/640px-Match_TV_logo.png"
 #EXTGRP: group-title="🇹🇷 MUNDIAL - TURQUÍA (TR)" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_1_logo.svg/512px-TRT_1_logo.svg.png"
 #EXTGRP: group-title="🇧🇪 MUNDIAL - BÉLGICA (BE)" group-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg"
-#EXTGRP: group-title="⚽ 1RFEF" group-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es"
-#EXTGRP: group-title="🇩🇪 BUNDESLIGA" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/180px-Bundesliga_logo_%282017%29.svg.png"
+#EXTGRP: group-title="1RFEF" group-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es"
+#EXTGRP: group-title="BUNDESLIGA" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/180px-Bundesliga_logo_%282017%29.svg.png"
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JwLnNTnz/photo-2025-09-04-13-06-12.jpg" group-title="ℹ️ INFO & SOPORTE", [⚡ POWERED BY GABRIEL PINOVSKI ⚡]
 http://localhost/null
 
-#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" tvg-id="DAZN Mundial" group-title="🏆 MUNDIAL 🏆", 🇪🇸 Dazn Mundial 1 (elcano.top zeronet)
+#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" tvg-id="DAZN Mundial" group-title="🇪🇸 MUNDIAL - DAZN (ES)",Dazn Mundial 1 (elcano.top zeronet)
 http://127.0.0.1:6878/ace/getstream?id=414222dc7b69a626f29eb964450dae44b3bc9b36
-#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" tvg-id="DAZN Mundial" group-title="🏆 MUNDIAL 🏆", 🇪🇸 Dazn Mundial 1 (elcano.top acestreamf1)
+#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" tvg-id="DAZN Mundial" group-title="🇪🇸 MUNDIAL - DAZN (ES)",Dazn Mundial 1 (elcano.top acestreamf1)
 http://127.0.0.1:6878/ace/getstream?id=ccfde4bc75d14c79dd09af72434568a0e732d507
-#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" tvg-id="DAZN Mundial 2" group-title="MUNDIAL - DAZN (ES)",Dazn Mundial 2 (elcano.top zeronet)
+#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" tvg-id="DAZN Mundial 2" group-title="🇪🇸 MUNDIAL - DAZN (ES)",Dazn Mundial 2 (elcano.top zeronet)
 http://127.0.0.1:6878/ace/getstream?id=63b1933154919d116f08e33ffcb31a23f9483989
-#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" tvg-id="DAZN Mundial 2" group-title="MUNDIAL - DAZN (ES)",Dazn Mundial 2 (elcano.top acestreamf1)
+#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" tvg-id="DAZN Mundial 2" group-title="🇪🇸 MUNDIAL - DAZN (ES)",Dazn Mundial 2 (elcano.top acestreamf1)
 http://127.0.0.1:6878/ace/getstream?id=dac18df259f44258d81aa8f31cb343bb837f5ac7
-#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" tvg-id="DAZN Mundial 3" group-title="MUNDIAL - DAZN (ES)",Dazn Mundial 3 (elcano.top zeronet)
+#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" tvg-id="DAZN Mundial 3" group-title="🇪🇸 MUNDIAL - DAZN (ES)",Dazn Mundial 3 (elcano.top zeronet)
 http://127.0.0.1:6878/ace/getstream?id=7cf306fc097deca7005b220b1f6206bd654b5ca5
-#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" tvg-id="DAZN Mundial 3" group-title="MUNDIAL - DAZN (ES)",Dazn Mundial 3 (elcano.top acestreamf1)
+#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" tvg-id="DAZN Mundial 3" group-title="🇪🇸 MUNDIAL - DAZN (ES)",Dazn Mundial 3 (elcano.top acestreamf1)
 http://127.0.0.1:6878/ace/getstream?id=f28f558a7699237cb4ec1e0075db4073ffc3a415
-#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" tvg-id="DAZN Mundial 4" group-title="MUNDIAL - DAZN (ES)",Dazn Mundial 4 (elcano.top zeronet)
+#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" tvg-id="DAZN Mundial 4" group-title="🇪🇸 MUNDIAL - DAZN (ES)",Dazn Mundial 4 (elcano.top zeronet)
 http://127.0.0.1:6878/ace/getstream?id=aab0be9632ef2f53e99f2e596a8e6a30ed34a29c
-#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" tvg-id="DAZN Mundial 4" group-title="MUNDIAL - DAZN (ES)",Dazn Mundial 4 (elcano.top acestreamf1)
+#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" tvg-id="DAZN Mundial 4" group-title="🇪🇸 MUNDIAL - DAZN (ES)",Dazn Mundial 4 (elcano.top acestreamf1)
 http://127.0.0.1:6878/ace/getstream?id=584e20154750a15d14cb59953bb9cdd923c331bb
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="MUNDIAL - RUSO (RU)", Pimple TV (RU)
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="🇷🇺 MUNDIAL - RUSO (RU)", Pimple TV (RU)
 http://127.0.0.1:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Match_TV_logo.png/640px-Match_TV_logo.png" tvg-id="Match TV" group-title="MUNDIAL - RUSO (RU)",Матч! ТВ HD (RU)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Match_TV_logo.png/640px-Match_TV_logo.png" tvg-id="Match TV" group-title="🇷🇺 MUNDIAL - RUSO (RU)",Матч! ТВ HD (RU)
 http://localhost:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Match_TV_logo.png/640px-Match_TV_logo.png" tvg-id="Match Premier" group-title="MUNDIAL - RUSO (RU)",Матч! Премьер (RU) [Análisis tácticos]
 http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
