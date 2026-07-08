@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
 #EXTVLCOPT:network-caching=1000
-#EXTGRP: group-title="🇪🇸 MUNDIAL - DAZN" group-logo="https://i.ibb.co/5gKcTv27/mundial-de-futbol-2026-en-dazn.png"
+#EXTGRP: group-title="🇪🇸 MUNDIAL - DAZN" group-logo="https://roams.es/images/post/es_ES_news/categoria-telefonia/1200x675/mundial-de-futbol-2026-en-dazn.webp"
 #EXTGRP: group-title="🇵🇱 MUNDIAL - POLONIA" group-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Canal%2B_Sport_2_PL.png"
 #EXTGRP: group-title="🇷🇺 MUNDIAL - RUSIA" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Match_TV_logo.png/640px-Match_TV_logo.png"
 #EXTGRP: group-title="🇧🇷 MUNDIAL - BRASIL" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png"
@@ -13,21 +13,21 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JwLnNTnz/photo-2025-09-04-13-06-12.jpg" group-title="ℹ️ INFO", [⚡ POWERED BY GABRIEL⚡]
 https://i.ibb.co/JwLnNTnz/photo-2025-09-04-13-06-12.jpg
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5gKcTv27/mundial-de-futbol-2026-en-dazn.png" tvg-id="DAZN Mundial" group-title="🇪🇸 MUNDIAL - DAZN",Dazn Mundial 1 (elcano.top zeronet)
+#EXTINF:-1 tvg-logo="https://roams.es/images/post/es_ES_news/categoria-telefonia/1200x675/mundial-de-futbol-2026-en-dazn.webp" tvg-id="DAZN Mundial" group-title="🇪🇸 MUNDIAL - DAZN",Dazn Mundial 1 (elcano.top zeronet)
 http://127.0.0.1:6878/ace/getstream?id=414222dc7b69a626f29eb964450dae44b3bc9b36
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5gKcTv27/mundial-de-futbol-2026-en-dazn.png" tvg-id="DAZN Mundial" group-title="🇪🇸 MUNDIAL - DAZN",Dazn Mundial 1 (elcano.top acestreamf1)
+#EXTINF:-1 tvg-logo="https://roams.es/images/post/es_ES_news/categoria-telefonia/1200x675/mundial-de-futbol-2026-en-dazn.webp" tvg-id="DAZN Mundial" group-title="🇪🇸 MUNDIAL - DAZN",Dazn Mundial 1 (elcano.top acestreamf1)
 http://127.0.0.1:6878/ace/getstream?id=ccfde4bc75d14c79dd09af72434568a0e732d507
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5gKcTv27/mundial-de-futbol-2026-en-dazn.png" tvg-id="DAZN Mundial 2" group-title="🇪🇸 MUNDIAL - DAZN",Dazn Mundial 2 (elcano.top zeronet)
+#EXTINF:-1 tvg-logo="https://roams.es/images/post/es_ES_news/categoria-telefonia/1200x675/mundial-de-futbol-2026-en-dazn.webp" tvg-id="DAZN Mundial 2" group-title="🇪🇸 MUNDIAL - DAZN",Dazn Mundial 2 (elcano.top zeronet)
 http://127.0.0.1:6878/ace/getstream?id=63b1933154919d116f08e33ffcb31a23f9483989
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5gKcTv27/mundial-de-futbol-2026-en-dazn.png" tvg-id="DAZN Mundial 2" group-title="🇪🇸 MUNDIAL - DAZN",Dazn Mundial 2 (elcano.top acestreamf1)
+#EXTINF:-1 tvg-logo="https://roams.es/images/post/es_ES_news/categoria-telefonia/1200x675/mundial-de-futbol-2026-en-dazn.webp" tvg-id="DAZN Mundial 2" group-title="🇪🇸 MUNDIAL - DAZN",Dazn Mundial 2 (elcano.top acestreamf1)
 http://127.0.0.1:6878/ace/getstream?id=dac18df259f44258d81aa8f31cb343bb837f5ac7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5gKcTv27/mundial-de-futbol-2026-en-dazn.png" tvg-id="DAZN Mundial 3" group-title="🇪🇸 MUNDIAL - DAZN",Dazn Mundial 3 (elcano.top zeronet)
+#EXTINF:-1 tvg-logo="https://roams.es/images/post/es_ES_news/categoria-telefonia/1200x675/mundial-de-futbol-2026-en-dazn.webp" tvg-id="DAZN Mundial 3" group-title="🇪🇸 MUNDIAL - DAZN",Dazn Mundial 3 (elcano.top zeronet)
 http://127.0.0.1:6878/ace/getstream?id=7cf306fc097deca7005b220b1f6206bd654b5ca5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5gKcTv27/mundial-de-futbol-2026-en-dazn.png" tvg-id="DAZN Mundial 3" group-title="🇪🇸 MUNDIAL - DAZN",Dazn Mundial 3 (elcano.top acestreamf1)
+#EXTINF:-1 tvg-logo="https://roams.es/images/post/es_ES_news/categoria-telefonia/1200x675/mundial-de-futbol-2026-en-dazn.webp" tvg-id="DAZN Mundial 3" group-title="🇪🇸 MUNDIAL - DAZN",Dazn Mundial 3 (elcano.top acestreamf1)
 http://127.0.0.1:6878/ace/getstream?id=f28f558a7699237cb4ec1e0075db4073ffc3a415
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5gKcTv27/mundial-de-futbol-2026-en-dazn.png" tvg-id="DAZN Mundial 4" group-title="🇪🇸 MUNDIAL - DAZN",Dazn Mundial 4 (elcano.top zeronet)
+#EXTINF:-1 tvg-logo="https://roams.es/images/post/es_ES_news/categoria-telefonia/1200x675/mundial-de-futbol-2026-en-dazn.webp" tvg-id="DAZN Mundial 4" group-title="🇪🇸 MUNDIAL - DAZN",Dazn Mundial 4 (elcano.top zeronet)
 http://127.0.0.1:6878/ace/getstream?id=aab0be9632ef2f53e99f2e596a8e6a30ed34a29c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5gKcTv27/mundial-de-futbol-2026-en-dazn.png" tvg-id="DAZN Mundial 4" group-title="🇪🇸 MUNDIAL - DAZN",Dazn Mundial 4 (elcano.top acestreamf1)
+#EXTINF:-1 tvg-logo="https://roams.es/images/post/es_ES_news/categoria-telefonia/1200x675/mundial-de-futbol-2026-en-dazn.webp" tvg-id="DAZN Mundial 4" group-title="🇪🇸 MUNDIAL - DAZN",Dazn Mundial 4 (elcano.top acestreamf1)
 http://127.0.0.1:6878/ace/getstream?id=584e20154750a15d14cb59953bb9cdd923c331bb
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="🇷🇺 MUNDIAL - RUSIA", Pimple TV (RU)
 http://127.0.0.1:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
