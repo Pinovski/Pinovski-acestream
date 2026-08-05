@@ -74,6 +74,8 @@ acestream://07976f79d17a439d7aff46cf0d4cfdf80311caf5
 acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" tvg-id="M+ Liga de Campeones 5" group-title="LIGA DE CAMPEONES",LIGA DE CAMPEONES 5 FHD
 acestream://cb6410a6355a645cfc6f6f5a7c7d71298fcbc2c5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png" tvg-id="M+ Liga de Campeones 6" group-title="LIGA DE CAMPEONES",LIGA DE CAMPEONES 6 FHD
+acestream://976983697790ab8a07b764b08843529d38bc6444
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Match_TV_logo.png/640px-Match_TV_logo.png" tvg-id="Match Futbol 1" group-title="CANALES EXTRANJEROS",Матч! Футбол 1 (RU)
 acestream://b28db77c5084da7993395d77df96c30bb134f0a9
@@ -119,28 +121,56 @@ acestream://6422e8bc34282871634c81947be093c04ad1bb29
 
 #EXTINF:-1 tvg-id="DAZN MotoGP" tvg-logo="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1772006365-dazn-motogp-699eaba85423e.jpg" group-title="MOTOGP",Dazn MotoGP 1080p
 acestream://e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
+#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-logo="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1772006365-dazn-motogp-699eaba85423e.jpg" group-title="MOTOGP",Dazn MotoGP 1080p (Respaldo 1)
+acestream://20d4b3586bb822c3618cf8fb665a304869c5e1a5
+#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-logo="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1772006365-dazn-motogp-699eaba85423e.jpg" group-title="MOTOGP",Dazn MotoGP 1080p (Respaldo 2)
+acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea
+#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-logo="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1772006365-dazn-motogp-699eaba85423e.jpg" group-title="MOTOGP",Dazn MotoGP 720p (Respaldo)
+acestream://129c707eb4854171d178a566f36d90b7f2b5e624
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/hXinMW0gpJZ21tefgfVij_aZ3V1g3zS2-Dw5HN2zOXkFZiYrWSHhcEDp9xIKN93eVAgH550-Og=s900-c-k-c0x00ffffff-no-rj" group-title="MOTOGP",Sky Sport MotoGP 1080p
 acestream://ea1b773caf164fd1ac87b11342cf178478f830ea
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/hXinMW0gpJZ21tefgfVij_aZ3V1g3zS2-Dw5HN2zOXkFZiYrWSHhcEDp9xIKN93eVAgH550-Og=s900-c-k-c0x00ffffff-no-rj" group-title="MOTOGP",Sky Sport MotoGP 1080p (Respaldo)
+acestream://063ee4ffa4676940f14a85e24f928cc1c9d6ae2d
 
 #EXTINF:-1 tvg-logo="https://www.soyvisual.org/sites/default/files/styles/twitter_card/public/images/photos/dep_0002.jpg" tvg-id="" group-title="BALONCESTO",NBA Eventos 2
 acestream://540101712b991557b00973af27027812f99b6458
 
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="MOVISTAR DEPORTES",M+ Deportes 1080p
 acestream://c6a824a81b36f6c3529826477caf2ad94b45776d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR DEPORTES",M+ Deportes (Respaldo 720p)
+acestream://6e031aed136bf97d8667fcd5fc49c73256928281
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" group-title="MOVISTAR DEPORTES",M+ Deportes 2 1080p
 acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR DEPORTES",M+ Deportes 2 (Respaldo 720p)
+acestream://6b15368775693c33c49fab02e7900c1976a5da90
 #EXTINF:-1 tvg-id="M+ Deportes 3" tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" group-title="MOVISTAR DEPORTES",M+ Deportes 3 1080p
 acestream://84aed52c5deb78f58595d88250e7a2bd04dfd810
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" tvg-id="M+ Deportes 3" group-title="MOVISTAR DEPORTES",M+ Deportes 3 (Respaldo 1080p)
+acestream://f4d9011721fad5098febbe4d7c078a582e176a01
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" tvg-id="M+ Deportes 3" group-title="MOVISTAR DEPORTES",M+ Deportes 3 (Respaldo 720p)
+acestream://e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d
 #EXTINF:-1 tvg-id="M+ Deportes 4" tvg-logo="https://i.ibb.co/WDN9NN9/deportes4.png" group-title="MOVISTAR DEPORTES",M+ Deportes 4 1080p
 acestream://7bede102385c65a545db531af476ef18c31f6258
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WDN9NN9/deportes4.png" tvg-id="M+ Deportes 4" group-title="MOVISTAR DEPORTES",M+ Deportes 4 (Respaldo 1080p)
+acestream://4abe06c5cce7cb3c6bef2c3bccaafefd3299794f
 #EXTINF:-1 tvg-id="M+ Deportes 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-5-por-movistar-plus-es.png" group-title="MOVISTAR DEPORTES",M+ Deportes 5 1080p
 acestream://15ec214bb10925dadd16a1716bb2042af6008a93
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-6-por-movistar-plus-es.png" tvg-id="M+ Deportes 6" group-title="MOVISTAR DEPORTES",M+ Deportes 6 FHD
+acestream://e4124b2143ed75e5ce902bed61be08cc5e5c3c03
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-8-por-movistar-plus-es.png" tvg-id="M+ Deportes 8" group-title="MOVISTAR DEPORTES",M+ Deportes 8
 acestream://56820609907a5405f8fa4ddc06eb9af04f6e64d4
 #EXTINF:-1 tvg-id="M+ Golf HD" tvg-logo="https://www.vhv.rs/dpng/d/424-4244985_file-movistar-golf-svg-logo-movistar-golf-hd.png" group-title="MOVISTAR DEPORTES",M+ Golf 1080p
 acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/irjqp71744196637.png" tvg-id="M+ Golf 2 HD" group-title="MOVISTAR DEPORTES",M+ Golf 2 FHD
+acestream://882074140fca664e119a43294afa2fb4a64917ef
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/irjqp71744196637.png" tvg-id="M+ Golf 2 HD" group-title="MOVISTAR DEPORTES",M+ Golf 2 (Respaldo)
+acestream://ac321484243571f59e077f2a2521e648dc0c7b03
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="MOVISTAR DEPORTES",M+ Vamos 1080p
 acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR DEPORTES",M+ Vamos (Respaldo 1080p)
+acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR DEPORTES",M+ Vamos (Respaldo 720p)
+acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Real%20Madrid%20TV.png" group-title="MOVISTAR DEPORTES",Real Madrid TV 1080p
 acestream://ac353757b626cedc6461d8eb73bfffa15fbb7be7
 #EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://img2.rtve.es/n/15966755" group-title="MOVISTAR DEPORTES",Teledeporte 1080p
@@ -154,11 +184,17 @@ acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
 acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png" tvg-id="DAZN 4 HD" group-title="DAZN",DAZN 4 FHD
 acestream://c015d37d1ead8155b1e7b97e743a1fe9850f0af5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-5-por-movistar-plus-es.png" tvg-id="M+ Deportes 5" group-title="DAZN",DAZN 5 FHD
+acestream://5913205fb6d6d162a50222709aab6129eb7cf916
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-6-por-movistar-plus-es.png" tvg-id="M+ Deportes 6" group-title="DAZN",DAZN 6 FHD
+acestream://e4124b2143ed75e5ce902bed61be08cc5e5c3c03
 
 #EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" group-title="EUROSPORT",Eurosport 1 1080p
 acestream://48a589dbeab3544662fafd79888aada7d834cfe9
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" group-title="EUROSPORT",Eurosport 2 1080p
 acestream://3ebcfc00921a4a9307dec97e078f8dc12eee27e7
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" group-title="EUROSPORT",Eurosport 2 (Respaldo)
+acestream://c6180a86440004748e2abe34d6f31eed8a218a3a
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png" tvg-id="" group-title="EUROSPORT",Eurosport UHD 4K
 acestream://95204e4c9f5f5c5239712b67f517a3b826263f49
 
@@ -195,8 +231,12 @@ acestream://7aca5ddc8a21542b23fe51064504a2e600b6a6b5
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Copa_del_Rey_logo.svg/1200px-Copa_del_Rey_logo.svg.png" tvg-id="Copa del Rey" group-title="OTROS",Copa del Rey
 acestream://4b9f813f30b4345fe555f9e218d828d76cd6ee88
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Copa_del_Rey_logo.svg/1200px-Copa_del_Rey_logo.svg.png" tvg-id="Copa del Rey" group-title="OTROS",Copa del Rey (Respaldo)
+acestream://63ad519ec9602ea12f7867cf15914b2537bbf04a
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="Canal 1 (1RFEF)" group-title="OTROS",Canal 1 (1RFEF)
 acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="Canal 2 (1RFEF)" group-title="OTROS",Canal 2 (1RFEF)
+acestream://8677d339ecddd75165c0015025f598b6215974cf
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="" group-title="OTROS",Fox Premium UFC
 acestream://ade70f2c51cca519a4d8de1bb181af6e8532e1e1
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS",DAZN FIFA 1
