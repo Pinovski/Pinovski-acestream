@@ -462,9 +462,6 @@ http://127.0.0.1:6878/ace/getstream?id=da38a21a9509be8c03b0fdb539cb1485843330c3
 http://127.0.0.1:6878/ace/getstream?id=1acd38e6176c782f5184c8736e0cf7127b65798b
 #EXTINF:-1 tvg-id="La 2" tvg-logo="https://img2.rtve.es/n/2220921" group-title="TDT",La 2 TVE 1080p **
 http://127.0.0.1:6878/ace/getstream?id=b80cd193286a7df788c07649667c1e6f64fc9dc7
-#EXTINF:-1 group-title="1",luz *
-http://127.0.0.1:6878/ace/getstream?id=4adbc671d7a22ba1f8d277f3f37c91b47845a8a1
-#EXTINF:-1 group-title="1",luz **
 http://127.0.0.1:6878/ace/getstream?id=4ccb69f37f4cc27c05aef975c200715d9b3d31b4
 #EXTINF:-1 group-title="AIRE LIBRE",ALTITUDE SPORTS 1080p *
 http://127.0.0.1:6878/ace/getstream?id=3f1697cd02ff08343ace6171ffc2b26bf2b3ce1b
