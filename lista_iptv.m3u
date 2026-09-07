@@ -463,7 +463,6 @@ http://127.0.0.1:6878/ace/getstream?id=da38a21a9509be8c03b0fdb539cb1485843330c3
 http://127.0.0.1:6878/ace/getstream?id=1acd38e6176c782f5184c8736e0cf7127b65798b
 #EXTINF:-1 tvg-id="La 2" tvg-logo="https://img2.rtve.es/n/2220921" group-title="TDT",La 2 TVE 1080p **
 http://127.0.0.1:6878/ace/getstream?id=b80cd193286a7df788c07649667c1e6f64fc9dc7
-http://127.0.0.1:6878/ace/getstream?id=4ccb69f37f4cc27c05aef975c200715d9b3d31b4
 #EXTINF:-1 group-title="AIRE LIBRE",ALTITUDE SPORTS 1080p *
 http://127.0.0.1:6878/ace/getstream?id=3f1697cd02ff08343ace6171ffc2b26bf2b3ce1b
 #EXTINF:-1 group-title="AIRE LIBRE",ALTITUDE SPORTS *
@@ -521,6 +520,8 @@ http://127.0.0.1:6878/ace/getstream?id=a895ab5bcc8beba2d2aa6d5aa332927f005baa65
 #EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/5cf5a026c170934c311c121c/63ab4f5a7a18d4001ca360c9_UFC_FightPass_hor_neg.png" group-title="UFC",UFC FIGHT PASS *
 http://127.0.0.1:6878/ace/getstream?id=138f0b038420a425d376cb5c85d3d61570466b20
 
+
+
 #EXTINF:-1 tvg-name="DAZN 1 1080p *" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="TEST",DAZN 1 1080p *
 http://127.0.0.1:6878/ace/getstream?id=dddff67edfa7061f643ec5ae0be110169850363d
 #EXTINF:-1 tvg-name="DAZN 2 720p **" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="TEST",DAZN 2 720p **
@@ -559,8 +560,8 @@ http://127.0.0.1:6878/ace/getstream?id=063ee4ffa4676940f14a85e24f928cc1c9d6ae2d
 http://127.0.0.1:6878/ace/getstream?id=79e6e01eb3db42e3da2428895181c0d32e4abd1f
 #EXTINF:-1 tvg-name="Direct Sport 1 1080p **" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/default.png" group-title="TEST",Direct Sport 1 1080p **
 http://127.0.0.1:6878/ace/getstream?id=1b25b195b1b84d4b96830410657718e9e275ad49
-#EXTINF:-1 tvg-name="LUZ **" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/default.png" group-title="TEST",LUZ **
-http://127.0.0.1:6878/ace/getstream?id=4ccb69f37f4cc27c05aef975c200715d9b3d31b4
+
+
 #EXTINF:-1 tvg-name="Canal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png" group-title="TEST",Canal
 http://127.0.0.1:6878/ace/getstream?id=4b9f813f30b4345fe555f9e218d828d76cd6ee88
 #EXTINF:-1 tvg-name="Canal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png" group-title="TEST",Canal
