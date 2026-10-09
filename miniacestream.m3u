@@ -73,7 +73,7 @@ http://127.0.0.1:6878/ace/getstream?id=3fbc1b7dc316f19b77e7f7cfc775a0af67adcc7f
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="RFEF TV" group-title="FÚTBOL | RFEF",RFEF TV · 1080p · Alternativa 2
 http://127.0.0.1:6878/ace/getstream?id=854ff9c607101791346111cd2366a392c3b8c351
 
-#EXTGRP: group-title="HYPERMOTION" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png"
+#EXTGRP: group-title="FÚTBOL | HYPERMOTION" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png"
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" group-title="HYPERMOTION",LaLiga TV Hypermotion · Comprobado
 http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" group-title="HYPERMOTION",LaLiga TV Hypermotion · 720p · Alternativa 1
