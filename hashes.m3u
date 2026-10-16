@@ -43,6 +43,21 @@ http://127.0.0.1:6878/ace/getstream?id=7a8c26ece4d1ce106225a2bc66260f6a5b9be913
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-4-por-movistar-plus-es.png" tvg-id="M+ LaLiga 4" group-title="FÚTBOL | MOVISTAR LALIGA",⚽ M+ LaLiga 4
 http://127.0.0.1:6878/ace/getstream?id=22178d72e0f255dedd7e56f9474fea879289a6f1
 
+#EXTGRP: group-title="FÚTBOL | VARIOS INTERNACIONAL"
+#EXTINF:-1 group-title="DEPORTES | VARIOS INTERNACIONAL",🌍 Ziggo Sport 2
+http://127.0.0.1:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
+#EXTINF:-1 group-title="DEPORTES | VARIOS INTERNACIONAL",🌍 beIN Sports 1
+http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1 group-title="DEPORTES | VARIOS INTERNACIONAL",🌍 beIN Sports 2
+http://127.0.0.1:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
+#EXTINF:-1 group-title="FÚTBOL | VARIOS INTERNACIONAL",⚽ Futbol HD RU · Fuente: Sport TV
+http://127.0.0.1:6878/ace/getstream?id=fce354f24fe26ca527e2c38b14eb7b0c81f756dd
+#EXTINF:-1 group-title="FÚTBOL | VARIOS INTERNACIONAL",⚽ Sky Sports Football
+http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1 group-title="FÚTBOL | VARIOS INTERNACIONAL",⚽ SkySP PL UK · Fuente: Sport TV
+http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ Liga de Campeones" group-title="FÚTBOL | MOVISTAR LIGA DE CAMPEONES",⚽ M+ Liga de Campeones · 1080p · Enlace 1
 http://127.0.0.1:6878/ace/getstream?id=91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ Liga de Campeones" group-title="FÚTBOL | MOVISTAR LIGA DE CAMPEONES",⚽ M+ Liga de Campeones · 1080p · Enlace 2
