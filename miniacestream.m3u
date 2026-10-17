@@ -347,25 +347,6 @@ acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 #EXTINF:-1 group-title="MOVISTAR | GENERAL",📺 Movistar Plus · 720p
 acestream://d23497596720b47b096ec0f850d6d26a19d1a336
 
-#EXTINF:-1 group-title="INTERNACIONAL | FÚTBOL",⚽ Futbol HD RU · Fuente: Sport TV
-acestream://fce354f24fe26ca527e2c38b14eb7b0c81f756dd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Match_TV_logo.png/640px-Match_TV_logo.png" group-title="INTERNACIONAL | FÚTBOL",⚽ Futbolny
-acestream://92f8939c7bff6bcb7e6da39379bb3d7a6a76693f
-#EXTINF:-1 group-title="INTERNACIONAL | FÚTBOL",⚽ Gol TV · 1080p
-acestream://42d3724b275c8029cef0b4d9ce4c59add5cd3ec1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Match_TV_logo.png/640px-Match_TV_logo.png" tvg-id="Match Futbol 1" group-title="INTERNACIONAL | FÚTBOL",⚽ Match Futbol 1
-acestream://b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Match_TV_logo.png/640px-Match_TV_logo.png" group-title="INTERNACIONAL | FÚTBOL",⚽ Match Futbol 2
-acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Match_TV_logo.png/640px-Match_TV_logo.png" group-title="INTERNACIONAL | FÚTBOL",⚽ Match Futbol 3
-acestream://b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 group-title="INTERNACIONAL | FÚTBOL",⚽ Real Madrid TV · 1080p
-acestream://ac353757b626cedc6461d8eb73bfffa15fbb7be7
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Football_GB_logo.png?1734015024" tvg-id="UK | Sky Sport Football" group-title="INTERNACIONAL | FÚTBOL",⚽ Sky Sports Football
-acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 group-title="INTERNACIONAL | FÚTBOL",⚽ SkySP PL UK · Fuente: Sport TV
-acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-
 #EXTINF:-1 group-title="INTERNACIONAL | VARIOS",🌍 Altitude Sports · 1080p
 acestream://3f1697cd02ff08343ace6171ffc2b26bf2b3ce1b
 #EXTINF:-1 group-title="INTERNACIONAL | VARIOS",🌍 Altitude Sports
