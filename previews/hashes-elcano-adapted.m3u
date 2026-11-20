@@ -3,7 +3,7 @@
 
 # ACTUALIZADO: PREVISUALIZACIÓN 20/11/2026
 # TOTAL CANALES: 69
-# TOTAL ENLACES: 163
+# TOTAL ENLACES: 162
 # FUENTE: ELCANO (adaptada a estructura Gabriel AceStream)
 
 #EXTINF:-1 tvg-id="DAZN LaLiga" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="FÚTBOL | LALIGA",⚽ DAZN LaLiga · 720p ** · Enlace 1
@@ -488,10 +488,4 @@ acestream://add32bf660e6ebf7cfda710f20621097800990e7
 
 #EXTINF:-1 tvg-id="Sport TV+" tvg-logo="https://brandlogos.net/wp-content/uploads/2023/12/sport_tv1-logo_brandlogos.net_k6b5q-512x512.png" group-title="DEPORTES | INTERNACIONAL",🏆 Sport TV+ · 1080p * · Enlace 2
 acestream://d04d68af86e33ddc4a5d83a6dffd14a473b30a6c
-
-#EXTINF:-1 tvg-id="luz_" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/default.png" group-title="DEPORTES | INTERNACIONAL",🏆 luz · Enlace 1
-acestream://e02060b418cd678fe2167f9c445e005f94a9f54a
-
-#EXTINF:-1 tvg-id="luz_" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/default.png" group-title="DEPORTES | INTERNACIONAL",🏆 luz · Enlace 2
-acestream://b039fe64df14989da0a70bcb5b65c18376936ee4
 
