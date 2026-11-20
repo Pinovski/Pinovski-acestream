@@ -5,8 +5,8 @@
 ## Resultado de la simulación
 
 - TXT de Elcano: **162 enlaces**, 162 hashes únicos.
-- M3U adaptado: **163 enlaces** (162 de Elcano + 1 enlace antiguo conservado).
-- Tarjetas simuladas con la misma clave que usa la web (categoría + nombre base): **69**.
+- M3U adaptado: **161 enlaces** (160 de Elcano + 1 enlace antiguo conservado; excluidos los 2 enlaces de «luz»).
+- Tarjetas simuladas con la misma clave que usa la web (categoría + nombre base): **68**.
 - Categorías: **21**.
 - Hashes duplicados: **0**.
 - Canal `luz`: **eliminado**, incluidos sus dos enlaces.
