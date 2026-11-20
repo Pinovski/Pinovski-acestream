@@ -9,6 +9,7 @@
 - Tarjetas simuladas con la misma clave que usa la web (categoría + nombre base): **69**.
 - Categorías: **21**.
 - Hashes duplicados: **0**.
+- Canal `luz`: **eliminado**, incluidos sus dos enlaces.
 - Hashes con formato incorrecto: **0**.
 
 ## Qué se ha conservado
@@ -56,7 +57,7 @@
 - **DEPORTES | TELEDEPORTE:** Teledeporte
 - **DEPORTES | TOROS:** Onetoro TV
 - **DEPORTES | UFC:** Paramount+ UFC
-- **DEPORTES | INTERNACIONAL:** beIN Sports 3 TR; beIN Sports TR; SPORT TV 3; Sport TV+; luz (categoría provisional)
+- **DEPORTES | INTERNACIONAL:** beIN Sports 3 TR; beIN Sports TR; SPORT TV 3; Sport TV+
 
 ## Pendiente antes de publicar
 
