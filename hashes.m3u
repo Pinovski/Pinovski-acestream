@@ -72,10 +72,19 @@ acestream://93927c37f60221f66e7421c7ae96aead7b353bab
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="FÚTBOL | HYPERMOTION",⚽ LaLiga TV Hypermotion 3 · 1080p ** · Enlace 1
 acestream://f18ad0066d5b194782d383bdd5abd830b2e7c168
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="FÚTBOL | LIGA DE CAMPEONES",⚽ M+ Liga de Campeones · 720p ** · Enlace 1
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="FÚTBOL | LIGA DE CAMPEONES",⚽ M+ Liga de Campeones · Enlace 1
+acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="FÚTBOL | LIGA DE CAMPEONES",⚽ M+ Liga de Campeones · Enlace 2
+acestream://bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="FÚTBOL | LIGA DE CAMPEONES",⚽ M+ Liga de Campeones · Enlace 3
+acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="FÚTBOL | LIGA DE CAMPEONES",⚽ M+ Liga de Campeones · 720p ** · Enlace 4
 acestream://463c956dd6bf90bf91583752e0c633511e45a9e9
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="FÚTBOL | LIGA DE CAMPEONES",⚽ M+ Liga de Campeones · 1080p ** · Enlace 2
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="FÚTBOL | LIGA DE CAMPEONES",⚽ M+ Liga de Campeones · 1080p ** · Enlace 5
 acestream://68d1621b35cbabb84633b9fb82e81b03056ffe02
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="FÚTBOL | LIGA DE CAMPEONES",⚽ M+ Liga de Campeones 2 · 1080p * · Enlace 1
