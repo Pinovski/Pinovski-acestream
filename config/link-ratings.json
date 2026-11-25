@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "enabled": {
+    "production": false,
+    "cardsLab": false,
+    "miTvLab": false
+  },
+  "ratings": {}
+}
