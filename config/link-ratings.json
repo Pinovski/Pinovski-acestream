@@ -3,7 +3,7 @@
   "enabled": {
     "production": false,
     "cardsLab": false,
-    "miTvLab": false
+    "miTvLab": true
   },
   "ratings": {}
 }
