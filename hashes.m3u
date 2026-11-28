@@ -9,7 +9,10 @@
 #EXTINF:-1 tvg-id="DAZN LaLiga" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="FÚTBOL | LALIGA",⚽ DAZN LaLiga · 720p ** · Enlace 1
 acestream://819b5627494a7830591ed7b995268315edcc7d0a
 
-#EXTINF:-1 tvg-id="DAZN LaLiga" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="FÚTBOL | LALIGA",⚽ DAZN LaLiga · 1080p * · Enlace 2
+#EXTINF:-1 tvg-id="DAZN LaLiga" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="FÚTBOL | LALIGA",⚽ DAZN LaLiga · 720p ** · Enlace 2
+acestream://6e77ccae02c587835822318eb4a7ea18e80d9cd5
+
+#EXTINF:-1 tvg-id="DAZN LaLiga" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="FÚTBOL | LALIGA",⚽ DAZN LaLiga · 1080p * · Enlace 3
 acestream://7f11f3366b520f71adedddf6ff1ad70362cc6a65
 
 #EXTINF:-1 tvg-id="M+ LaLiga" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="FÚTBOL | LALIGA",⚽ M+ LaLiga · 720p * · Enlace 1
